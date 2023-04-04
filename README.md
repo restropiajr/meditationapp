@@ -1,3 +1,4 @@
 # meditation-app
+Meditation App
 
-Followed a tutorial on how to make a meditation app. The purpose of this tutorial was to teach HTML, CSS, and JavaScript.
+The purpose of this project was to practice HTML, CSS, and JavaScript.
